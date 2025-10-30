@@ -1,4 +1,4 @@
-﻿# Security Policy
+# Security Policy
 
 ## Reporting a Vulnerability
 If you find a security vulnerability in this project, please report it responsibly via email:
